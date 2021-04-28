@@ -1,0 +1,80 @@
+.admin_nav {
+  color: white;
+  background-color: #31353D;
+}
+
+.admin_nav img {
+  height: 60px;
+  width: 60px;
+}
+
+.admin_nav hr {
+  background-color: rgb(69,69,69);
+}
+
+.admin_nav button, .admin_nav button:hover {
+  color: white;
+  box-shadow: none;
+}
+
+.admin_nav a {
+  color: #818896;
+  box-shadow: none;
+  text-decoration: none;
+}
+
+.admin_nav a:hover {
+  color: rgb(234,232,232);
+}
+
+.admin_nav a:hover i {
+  color: rgb(83,201,251);
+  box-shadow: 1px 1px 10px rgba(59,177,244,0.71)!important;
+}
+
+.icon_btn {
+  margin-right: 10px;
+  font-size: 14px!important;
+  width: 30px;
+  height: 30px;
+  text-align: center;
+  border-radius: 4px;
+  background-color: #3A3F48;
+  padding-top: 9px;
+}
+
+.footer_side_nav {
+  background: #3a3f48;
+  box-shadow: 0px -1px 5px #282c33;
+  border-top: 1px solid #464a52;
+  position: fixed;
+  width: 22.14%;
+  bottom: 0;
+}
+
+.grid-container {
+  display: grid;
+  grid-template-columns: 1fr 3.5fr;
+}
+
+.admin_input input {
+  height: 26px;
+  margin-bottom: 10px;
+  font-size: 12px;
+}
+
+.admin_input input:focus, .admin_input textarea:focus {
+  outline: none !important;
+  border: 1px solid rgb(48,60,62);
+  box-shadow: none;
+}
+
+.src_btn_admin {
+  height: 27px;
+  width: 129.8594px;
+}
+
+.ad_arrow_btn {
+  height: 31px;
+}
+
