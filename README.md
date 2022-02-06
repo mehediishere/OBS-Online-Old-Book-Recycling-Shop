@@ -1,4 +1,4 @@
-# OBS - Online Old Book Recycling Shop || Web development || ecommerce
+## OBS - Online Old Book Recycling Shop || Web development || Ecommerce
  
  ## Project Preview
  
